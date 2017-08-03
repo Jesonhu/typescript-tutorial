@@ -1,3 +1,15 @@
+# 归纳：
+
+- 1 任意值
+
+   + 什么是任意值类型
+
+   + 任意值的属性和方法
+
+   + 未声明类型的变量
+
+---
+
 # 任意值
 
 任意值（Any）用来表示允许赋值为任意类型。
@@ -65,9 +77,12 @@ something.setName('Jerry Lee');
 
 ## 参考
 
-- [Basic Types # Any](http://www.typescriptlang.org/docs/handbook/basic-types.html#any)（[中文版](https://zhongsp.gitbooks.io/typescript-handbook/content/doc/handbook/Basic%20Types.html#任意值)）
+* [Basic Types \# Any](http://www.typescriptlang.org/docs/handbook/basic-types.html#any)（[中文版](https://zhongsp.gitbooks.io/typescript-handbook/content/doc/handbook/Basic Types.html#任意值)）
 
 ---
 
-- [上一章：原始数据类型](primitive-data-types.md)
-- [下一章：类型推论](type-inference.md)
+* [上一章：原始数据类型](primitive-data-types.md)
+* [下一章：类型推论](type-inference.md)
+
+
+
