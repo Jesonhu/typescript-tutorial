@@ -8,8 +8,6 @@
 
 [4 未声明类型的变量](#未声明类型的变量)
 
- \[^footnote\]
-
 ---
 
 # 任意值
@@ -76,8 +74,6 @@ something = 7;
 
 something.setName('Jerry Lee');
 ```
-
-\[^footnote\]: 这是一个 \*注脚\* 的 \*\*文本\*\*。
 
 ## 参考
 
