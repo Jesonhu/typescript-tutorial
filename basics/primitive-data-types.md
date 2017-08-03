@@ -1,10 +1,10 @@
 # 归纳
 - 1 [JS原始数据类型介绍](# 原始数据类型)
-  +  [布尔值](#布尔值)
-  + [数值](#数值)
-  + [字符串](#字符串)
-  + [空值](#空值)
-  + [null和undefined](#null-和-undefined)
+  +  [TS布尔值](#布尔值)
+  + [TS数值](#数值)
+  + [TS字符串](#字符串)
+  + [TS空值](#空值)
+  + [TS null和TS undefined](#null-和-undefined) [^1.5]
 ----
 # 原始数据类型
 
@@ -150,6 +150,7 @@ let num: number = u;
 
 // index.ts(2,5): error TS2322: Type 'void' is not assignable to type 'number'.
 ```
+[^1.5]: 返回
 
 ## 参考
 
